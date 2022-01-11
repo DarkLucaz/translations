@@ -33,6 +33,7 @@
 	"amargasaurus":{
 		"name_t":{
 			"ru":"Амаргазавр"
+                        "pt-br":"Amargassauro",
 		}
 	},
 	"ammonite":{
@@ -140,6 +141,7 @@
 			"it":"Arthropleura",
 			"ja":"アースロプレウラ",
 			"ko":"아트로플레우라",
+                        "pt-br":"Arthropleura",
 			"ro":"Arthropleura",
 			"ru":"Артроплевра",
 			"zh":"古马陆"
@@ -571,7 +573,7 @@
 			"it":"Diplocaulo",
 			"ja":"ディプロカウルス",
 			"ko":"디플로카울루스",
-			"pt-br":"Diplocaucus",
+			"pt-br":"Diplocaulus",
 			"ru":"Диплокаулус",
 			"zh":"盗首螈"
 		}
@@ -604,7 +606,7 @@
 			"ja":"ショートフェイスベア",
 			"ko":"다이어 베어",
 			"nl":"Oerbeer",
-			"pt-br":"Arcdotus",
+			"pt-br":"Arctodus",
 			"ro":"Urs",
 			"ru":"Свирепый медведь",
 			"th":"หมีดุร้าย",
@@ -638,7 +640,7 @@
 			"he":"דודו",
 			"ja":"ドードー",
 			"ko":"도도",
-			"pt-br":"Dodo",
+			"pt-br":"Dodô",
 			"ru":"Додо",
 			"zh":"渡渡鸟"
 		}
@@ -1017,6 +1019,7 @@
 			"it":"Ittiosauro",
 			"ja":"イクチオサウルス",
 			"ko":"이크티오사우루스",
+                        "pt-br":"Ictiossauro",
 			"ru":"Ихтиозавр",
 			"zh":"鱼龙"
 		}
@@ -1197,7 +1200,8 @@
 			"it":"Limantria",
 			"ja":"リマントリア",
 			"ko":"매미나방",
-			"ru":"Шелкопряд",
+                        "pt-br":"Mariposa",
+                        "ru":"Шелкопряд",
 			"zh":"沙蛾"
 		}
 	},
@@ -1305,6 +1309,7 @@
 			"ja":"カマキリ",
 			"ko":"사마귀",
 			"nl":"Bidsprinkhaan",
+                        "pt-br":"Louva a Deus",
 			"ru":"Богомол",
 			"zh":"螳螂"
 		}
@@ -1457,6 +1462,7 @@
 			"it":"Morellatopo",
 			"ja":"モレラトプス",
 			"ko":"모렐라톱스",
+                        "pt-br":"Morelatopo",
 			"ru":"Мореллатопс",
 			"zh":"驼峰兽"
 		}
@@ -1726,6 +1732,7 @@
 			"it":"Procoptodonte",
 			"ja":"プロコプトドン",
 			"ko":"프로콥토돈",
+			"pt-br":"Procoptodonte",
 			"ru":"Прокоптодон",
 			"zh":"巨型袋鼠"
 		}
@@ -2120,6 +2127,7 @@
 			"ja":"モロクトカゲ",
 			"ko":"가시 드래곤",
 			"nl":"Doornige Draak",
+			"pt-br":"Dragão-Espinhoso",
 			"ro":"Spinoasă Dragon",
 			"ru":"Шипастый дракон",
 			"tr":"Dikenli Ejder",
@@ -2144,7 +2152,6 @@
 			"fr":"Titanoboa",
 			"ja":"ティタノボア",
 			"ko":"티타노보아",
-			"pt-br":"Leão Marsupial",
 			"ru":"Титанобоа",
 			"zh":"泰坦巨蟒"
 		}
@@ -2185,6 +2192,7 @@
 			"it":"Triceratopo",
 			"ja":"トリケラトプス",
 			"ko":"트리케라톱스",
+			"pt-br":"Trike",
 			"ru":"Трицератопс",
 			"zh":"三角龙"
 		}
@@ -2258,6 +2266,7 @@
 			"ja":"ユニコーン",
 			"ko":"유니콘",
 			"nl":"Eenhoorn",
+			"pt-br":"Unicórnio",
 			"ru":"Единорог",
 			"zh":"独角兽"
 		}
@@ -2271,6 +2280,7 @@
 			"ja":"ヴェロナサウルス",
 			"ko":"벨로나사우루스",
 			"ko-OLD":"벨로나사우르스",
+			"pt-br":"Velonassauro"
 			"ru":"Велоназавр",
 			"zh":"刺面龙"
 		}
@@ -2296,6 +2306,7 @@
 			"ja":"ハゲワシ",
 			"ko":"독수리",
 			"nl":"Gier",
+			"pt-br":"Abutre",
 			"ro":"Vultur",
 			"ru":"Гриф",
 			"tr":"Akbaba",
